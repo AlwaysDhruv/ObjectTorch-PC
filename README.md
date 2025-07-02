@@ -1,6 +1,6 @@
 Architecture
 =========
-[](https://github.com/user-attachments/assets/14d973e3-d39c-4818-a2ec-7791bd9e7443)](https://images.app.goo.gl/9hXqfX8ceRRhqL9J6)
+![17514803184171721417473326228621](https://github.com/user-attachments/assets/5eec279a-eaca-455c-a056-3fca3d46483e)
 *************
 About ObjectTorch
 =========
