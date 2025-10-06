@@ -1,6 +1,6 @@
 # ObjectTorch: Image Classification GUI
 
-ObjectTorch is a user-friendly desktop application for image classification built with Python, Kivy, and TensorFlow. It allows you to both train your own image classification models and use pre-trained models to make predictions on your own images.
+ObjectTorch is a user-friendly desktop application for image classification built with Python and with their frameworks Kivy, and TensorFlow. It allows you to both train your own image classification models and use pre-trained models to make predictions on your own images.
 
 ## Features
 
